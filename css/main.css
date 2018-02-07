@@ -1547,6 +1547,7 @@ pre .javascript .function {
 }
 .post-button {
   margin-top: 40px;
+  background: transparent;
 }
 .posts-expand .post-tags {
   margin-top: 40px;
@@ -1945,7 +1946,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #53ff25;
+  background: #416cc7;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2739,7 +2740,6 @@ img:hover {
   overflow: hidden;
   padding: 0;
   width: 240px;
-  background: #fff;
   box-shadow: initial;
   border-radius: initial;
 }
@@ -2798,7 +2798,6 @@ img:hover {
   box-sizing: border-box;
   padding: 40px;
   width: 700px;
-  background: #fff;
   min-height: 700px;
   box-shadow: initial;
   border-radius: initial;
@@ -2980,7 +2979,6 @@ img:hover {
   box-sizing: border-box;
   width: 240px;
   color: #555;
-  background: #fff;
   box-shadow: initial;
   border-radius: initial;
   opacity: 0;
